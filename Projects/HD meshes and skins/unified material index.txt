@@ -22,12 +22,12 @@ id 3 - default eyes
 	id 31 - eye shine layer (EyeShine.xrf)
 	id 32 - eye bottom (inner glow) layer (EyeBottom.xrf)
 
-id 4 - default hair
-	id 40 - second hair color
-	id 41 - hair extras (frill)
-	id 42 - hair extras (frill 2nd color)
-	id 43 - hair extras (ponytail)
-	id 44 - hair extras (ponytail 2nd color)
+id 4 - default hair (female01.head01.hair01.xrf)
+	id 40 - second hair color (HairBase2.xrf)
+	id 41 - hair extras (frill) (HairFrill1.xrf)
+	id 42 - hair extras (frill 2nd color) (HairFrill2.xrf)
+	id 43 - hair extras (ponytail) (HairPonytail1.xrf)
+	id 44 - hair extras (ponytail 2nd color) (HiirPonytail2.xrf)
 	id 45 - generic fur tuft
 	id 46 - ear fluff
 
