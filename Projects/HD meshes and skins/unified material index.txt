@@ -12,7 +12,7 @@ id 1 - default lower body(?) My Chibi kitsune skins use those ids
 	
 
 id 2 - default head
-	id 20 - 1 piece hd mask 
+	id 20 - 1 piece hd mask (FaceComplete.xrf)
 	id 21 - hd mask left (FaceLeft.xrf)
 	id 22 - hd mask right (FaceRight.xrf)
 	id 23 - hd mask back (FaceBack.xrf)
@@ -27,7 +27,7 @@ id 4 - default hair (female01.head01.hair01.xrf)
 	id 41 - hair extras (frill) (HairFrill1.xrf)
 	id 42 - hair extras (frill 2nd color) (HairFrill2.xrf)
 	id 43 - hair extras (ponytail) (HairPonytail1.xrf)
-	id 44 - hair extras (ponytail 2nd color) (HiirPonytail2.xrf)
+	id 44 - hair extras (ponytail 2nd color) (HairPonytail2.xrf)
 	id 45 - generic fur tuft
 	id 46 - ear fluff
 
