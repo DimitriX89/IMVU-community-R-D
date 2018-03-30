@@ -12,7 +12,7 @@ id 1 - default lower body(?) My Chibi kitsune skins use those ids
 	
 
 id 2 - default head
-	id 20 - 1 piece hd mask (FaceComplete.xrf)
+	id 20 - 1 piece hd mask 
 	id 21 - hd mask left (FaceLeft.xrf)
 	id 22 - hd mask right (FaceRight.xrf)
 	id 23 - hd mask back (FaceBack.xrf)
@@ -56,5 +56,8 @@ id 100+ - integrated bodyparts
         id 102 - integrated ears
 	id 103 - integrated tail
         id 104 - integrated tail extras
+	id 104 - integrated tail 2 (tail.xrf)
 
 id 200+ - reserved for Skin Composite substitutes (BasecoatMaterialID keyword)
+	id 243 - kitsune ears face layer
+	id 297 - kitsune tails "skin" layer
