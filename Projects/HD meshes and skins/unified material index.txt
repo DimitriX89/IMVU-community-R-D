@@ -12,7 +12,7 @@ id 1 - default lower body(?) My Chibi kitsune skins use those ids
 	
 
 id 2 - default head
-	id 20 - 1 piece hd mask 
+	id 20 - 1 piece hd mask (FaceComplete.xrf)
 	id 21 - hd mask left (FaceLeft.xrf)
 	id 22 - hd mask right (FaceRight.xrf)
 	id 23 - hd mask back (FaceBack.xrf)
@@ -21,6 +21,8 @@ id 3 - default eyes
 	id 30 - Kloudust 2tone eye (2ToneEye.xrf)
 	id 31 - eye shine layer (EyeShine.xrf)
 	id 32 - eye bottom (inner glow) layer (EyeBottom.xrf)
+
+	id 39 - male eyes for unisex eye product
 
 id 4 - default hair (female01.head01.hair01.xrf)
 	id 40 - second hair color (HairBase2.xrf)
@@ -32,6 +34,7 @@ id 4 - default hair (female01.head01.hair01.xrf)
 	id 46 - ear fluff
 
 id 5 - default eyelashes
+	id 50 - hd eyelashes
 
 id 6 - ?
 
@@ -61,3 +64,5 @@ id 100+ - integrated bodyparts
 id 200+ - reserved for Skin Composite substitutes (BasecoatMaterialID keyword)
 	id 243 - kitsune ears face layer
 	id 297 - kitsune tails "skin" layer
+
+id 301 - kitsune hair transition

@@ -1,0 +1,46 @@
+ Mesh Channels Body Parts Ref Guide; taken from IMVU forums
+ 
+0. Head 
+1. Hair 
+2. Upper Body 
+3. Right Hand 
+4. Left Hand 
+5. Pelvis 
+6. Right Leg 
+7. Left Leg 
+8. Right Foot 
+9. Left Foot 
+11 = Left earlobe products 
+12 = Right earlobe products 
+13 = Both earlobe products 
+14 = Forehead products (tiara, ring of flowers, hair clip) 
+15 = Top of head products (hats) w/o hair 
+16 = Hair extensions 
+17 to 19 = More head attachments (bows, pins, etc. ) 
+20 = Left shoulder products (shoulder armor, armbands) 
+21 = Right shoulder products 
+22 = Both shoulder products 
+23 = Left hand non-held products (gloves) 
+24 = Right hand non-held products 
+25 = Both hand non-held products 
+26 = Left hand held products (sword, ball, etc.) 
+27 = Right hand held products 
+28 = Both hands, held-held products 
+29 = Left pinky finger 
+30 = Left ring finger 
+31 = Left middling finger 
+32-39 = Other rings 
+40-49 = Unused 
+50-59 = Skirts, belts, bows, etc 
+60-69 = Leg decorations, Knee Pads, Garters etc 
+70-79 = Unused 
+80-89 = Heels, Hoves, Anklets 
+90-94 = Unused Neck Stuff 
+95- Choker necklaces 
+96 = Short necklaces 
+97 = Medium length necklaces 
+98 = Longer necklaces (cleavage) 
+90-99 = Unused 
+100+ = ??? 
+
+If we use above 100, please use the standards already set preceded by the 1##. Example: 114 would be for more "Forehead" products. 
