@@ -42,6 +42,7 @@ id 7 - default skin
 	id 70 - body fur extras?
 	id 71 - hd body left
 	id 72 - hd body right
+	id 73 - hd paws
 
 	id 76 - Tentacles/Sunn digileg left// (DigilegsLeft.xrf) assigned same numbers as left and right leg of the avatar
 	id 77 - Tentacles/Sunn digileg right
